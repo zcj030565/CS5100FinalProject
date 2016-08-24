@@ -1,4 +1,3 @@
-Important:
 Before running the program, please make sure that you have already installed OpenCV3 for Java. 
 For the implementation of KNN, SVM and logistic regression algorithms by ourselves,
 please click “Basic Algorithms Implemented By Ourselves” button:

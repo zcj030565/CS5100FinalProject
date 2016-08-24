@@ -11,7 +11,7 @@ files and can be reused.
 e. Click the “SVM” button to run the SVM algorithm.
 f. Click the “Logistic Regression Model training” button.
 g. Click the “Logistic Regression” button.
-3) For& the& face& recognition& system& based& on&OpenCV.& If& you&want& to& register& new& users,&
-please&click&“Register&Face”.&It&is&required&to&register&10&images&for&each&new&user.&Please&
-remember&to&retrain&your&models&by&clicking&“Training”&button.&If&you&want&to&recognize&
-a&user,&please&click&“Recognize&Face”&button.
+3) For& the face recognition system based on&OpenCV. If you want to register new users,
+please click “Register Face”. It is required to register 10 images for each new user.Please
+remember to retrain your models by clicking “Training” button. If you want to recognize
+a user, please click “Recognize Face” button.

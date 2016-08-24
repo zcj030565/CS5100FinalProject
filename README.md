@@ -5,7 +5,6 @@ The advanced part is a face recognition system based on OpenCV.
 
 Before Running face recognition system based on OpenCV, Please make sure you’ve configured the environment:
 Install OpenCV 3.1.0.3 for java on your MacBook
-
 1.  Open Terminal
 
 2.	brew tap homebrew/science

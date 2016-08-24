@@ -1,13 +1,17 @@
 Important:
 Before running the program, please make sure that you have already installed OpenCV3 for Java. 
-
-There are 4 buttons in the GUI.
-if you click on the button "Basic Algorithms Implemented By Ourselves", you will see the KNN, SVM, Logistic Regression implemented 
-by ourselves without using any third-party machine learning libraries. 
-These algorithms are running on the dataset ORL.
-
-The other 3 buttons are for the face recognition system running on OpenCV and libsvm(a third-party machine learning library for SVM). 
-You can register images for new person to enlarge your database if you click on the register button. 
-You can ask the system to recognize the person who has already registered in the database. 
-For those who has never been registered,they are recognized as strangers. 
-Every time you register any new faces, please click on the training button to retrain your model.
+For the implementation of KNN, SVM and logistic regression algorithms by ourselves,
+please click “Basic Algorithms Implemented By Ourselves” button:
+a. Click “Training Image Process” button to process training images with PCA.
+b. Click “Testing Image Process” button to process test images with PCA.
+c. Click “KNN” button to run the KNN algorithm, the outputs on the right side are
+the errors, the outputs in the Console window are the complete output.
+d. Click “SVM Model Training” button to train the SVM models which are saved as
+files and can be reused.
+e. Click the “SVM” button to run the SVM algorithm.
+f. Click the “Logistic Regression Model training” button.
+g. Click the “Logistic Regression” button.
+3) For& the& face& recognition& system& based& on&OpenCV.& If& you&want& to& register& new& users,&
+please&click&“Register&Face”.&It&is&required&to&register&10&images&for&each&new&user.&Please&
+remember&to&retrain&your&models&by&clicking&“Training”&button.&If&you&want&to&recognize&
+a&user,&please&click&“Recognize&Face”&button.
